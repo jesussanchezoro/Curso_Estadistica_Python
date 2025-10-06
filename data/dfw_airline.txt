@@ -1,0 +1,6 @@
+Tipo      Frecuencia
+Carrier   64263.16
+ATC       84856.5
+Weather   11235.42
+Security  343.15
+Inbound   118427.82
